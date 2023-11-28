@@ -23,7 +23,6 @@ Relé con Arduino y ESP8266 para crear una lámpara inteligente (programarfacil.
 ESP8266 nodemcu servidor local encendido de foco y lectura de temperatura con IDE Arduino - YouTube
 
 ## FASE 8: Impresión 3D
-
-https://www.instagram.com/shimano.prints/
+[Shimano Prints](https://www.instagram.com/shimano.prints/)
 
 Impresion 3D Mostla Qro (google.com)
