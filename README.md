@@ -2,6 +2,7 @@
 Documentación del proyecto IoT EcoLux, donde se encuentran todos los códigos, desde probar el Node MCU (ESP8266), usar Ubidots, probar con el sensor DHT11 para ver si el ESP8266 lee y guarda los datos correctamente, hasta el código de nuestro proyecto, que usa un sensor de luz y un relé. 
 
 ## FASE 1: Activación NodeMCU ESP8266
+Primero, se tiene que aprender a usar el ESP8266. Está imagen tiene el pinout del ESP8266. Esto significa que si utilizas el pin D0, en el código se utiliza el puerto 5. En la carpeta del folder 1 se encuentra el código de Arduino, con el que probamos el NodeMCU con un LED, para ver si parpadeaba el LED. De esta forma comprobamos que el NodeMCU si está conectado y funcionando.
 ![image](https://github.com/Jesus0204/IoT_Ecolux/assets/65917649/53dae035-85e7-4b31-b29d-cdc2c2645eb9)
 
 
