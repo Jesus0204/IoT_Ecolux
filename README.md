@@ -2,7 +2,8 @@
 Documentación del proyecto IoT EcoLux, donde se encuentran todos los códigos, desde probar el Node MCU (ESP8266), usar Ubidots, probar con el sensor DHT11 para ver si el ESP8266 lee y guarda los datos correctamente, hasta el código de nuestro proyecto, que usa un sensor de luz y un relé. 
 
 ## FASE 1: Activación NodeMCU ESP8266
-[ESP8266](https://ingeniotics.com.mx/wp-content/uploads/2021/02/NodeMCU-%E2%80%93-Board-de-desarrollo-con-modulo-ESP8266-WiFi-y-Lua-4.jpg)
+![image](https://github.com/Jesus0204/IoT_Ecolux/assets/65917649/53dae035-85e7-4b31-b29d-cdc2c2645eb9)
+
 
 ## FASE 2: Conexión a Internet del NodeMCU
 3 pasos para conectar un ESP8266 a tu WiFi para proyectos de IoT ([descubrearduino.com](https://descubrearduino.com/conectar-un-esp8266-a-wifi/))
