@@ -12,15 +12,15 @@ Documentación del proyecto IoT EcoLux, donde se encuentran todos los códigos, 
 
 ## FASE 4: Conexión a Ubidots
 GitHub - ubidots/ubidots-esp8266: Library for uploading ESP8266 devices to Ubidots
-https://help.ubidots.com/en/articles/513312-connect-a-nodemcu-esp8266-to-ubidots-over-http
-(4) 1) Ubidots y Arduino - Control el ESP8266 - Led y Temperatura - YouTube
+(https://help.ubidots.com/en/articles/513312-connect-a-nodemcu-esp8266-to-ubidots-over-http)
+(4) 1) Ubidots y Arduino - Control el ESP8266 - Led y Temperatura - YouTube (https://www.youtube.com/watch?v=Jwi2ObUkRyo)
 ## FASE 5: Prueba del sensor de luminosidad
 
 ## FASE 6: Prueba del relay
-Relé con Arduino y ESP8266 para crear una lámpara inteligente (programarfacil.com)
+Relé con Arduino y ESP8266 para crear una lámpara inteligente (programarfacil.com) (https://programarfacil.com/blog/arduino-blog/rele-con-arduino-lampara/)
 ## FASE 7: Creación servidor local con sensor de luminosidad, relay y Ubidots
 
-ESP8266 nodemcu servidor local encendido de foco y lectura de temperatura con IDE Arduino - YouTube
+ESP8266 nodemcu servidor local encendido de foco y lectura de temperatura con IDE Arduino - YouTube (https://www.youtube.com/watch?v=0xCkHxwYHY0)
 
 ## FASE 8: Impresión 3D
 Finalmente, imprimimos un modelo de cómo es que se vería el proyecto. Este es un modelo con la idea y concepto del producto final. La impresión de la lámpara fue a través de: [Shimano Prints](https://www.instagram.com/shimano.prints/).
