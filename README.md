@@ -5,7 +5,7 @@ Documentación del proyecto IoT EcoLux, donde se encuentran todos los códigos, 
 
 
 ## FASE 2: Conexión a Internet del NodeMCU
-3 pasos para conectar un ESP8266 a tu WiFi para proyectos de IoT (descubrearduino.com)
+3 pasos para conectar un ESP8266 a tu WiFi para proyectos de IoT ([descubrearduino.com](https://descubrearduino.com/conectar-un-esp8266-a-wifi/))
 
 ## FASE 3: Prueba del sensor DHT11
 ✔️ Sensor de temperatura y humedad con ESP8266 -👈😉 – DHT11 con ESP8266 - Curso IoT con ESP8266 #09 - YouTube
