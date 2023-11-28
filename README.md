@@ -7,10 +7,10 @@ Primero, se tiene que aprender a usar el ESP8266. Está imagen tiene el pinout d
 
 
 ## FASE 2: Conexión a Internet del NodeMCU
-3 pasos para conectar un ESP8266 a tu WiFi para proyectos de IoT ([descubrearduino.com](https://descubrearduino.com/conectar-un-esp8266-a-wifi/))
+[3 pasos para conectar un ESP8266 a tu WiFi para proyectos de IoT (descubrearduino.com](https://descubrearduino.com/conectar-un-esp8266-a-wifi/))
 
 ## FASE 3: Prueba del sensor DHT11
-✔[Sensor de temperatura y humedad con ESP8266 -👈😉 – DHT11 con ESP8266 - Curso IoT con ESP8266 #09](https://www.youtube.com/watch?v=pwlRKiLVkJs&t=312s)
+[Sensor de temperatura y humedad con ESP8266 -👈😉 – DHT11 con ESP8266 - Curso IoT con ESP8266 #09](https://www.youtube.com/watch?v=pwlRKiLVkJs&t=312s)
 
 ## FASE 4: Conexión a Ubidots
 [GitHub - ubidots/ubidots-esp8266: Library for uploading ESP8266 devices to Ubidots](https://help.ubidots.com/en/articles/513312-connect-a-nodemcu-esp8266-to-ubidots-over-http)
