@@ -7,21 +7,23 @@ Primero, se tiene que aprender a usar el ESP8266. Está imagen tiene el pinout d
 
 
 ## FASE 2: Conexión a Internet del NodeMCU
-[3 pasos para conectar un ESP8266 a tu WiFi para proyectos de IoT (descubrearduino.com](https://descubrearduino.com/conectar-un-esp8266-a-wifi/))
+Link donde se obtuvo el código para conectar a internet el ESP8266: [3 pasos para conectar un ESP8266 a tu WiFi para proyectos de IoT (descubrearduino.com](https://descubrearduino.com/conectar-un-esp8266-a-wifi/))
 
 ## FASE 3: Prueba del sensor DHT11
-[Sensor de temperatura y humedad con ESP8266 -👈😉 – DHT11 con ESP8266 - Curso IoT con ESP8266 #09](https://www.youtube.com/watch?v=pwlRKiLVkJs&t=312s)
+Link de video para usar el DHT11 con el ESP 8266: [Sensor de temperatura y humedad con ESP8266 -👈😉 – DHT11 con ESP8266 - Curso IoT con ESP8266 #09](https://www.youtube.com/watch?v=pwlRKiLVkJs&t=312s)
 
 ## FASE 4: Conexión a Ubidots
-[GitHub - ubidots/ubidots-esp8266: Library for uploading ESP8266 devices to Ubidots](https://help.ubidots.com/en/articles/513312-connect-a-nodemcu-esp8266-to-ubidots-over-http)
+Link y Video para conectar a Ubidots el ESP8266 usando los datos del DHT11: [GitHub - ubidots/ubidots-esp8266: Library for uploading ESP8266 devices to Ubidots](https://help.ubidots.com/en/articles/513312-connect-a-nodemcu-esp8266-to-ubidots-over-http)
 [Ubidots y Arduino - Control el ESP8266 - Led y Temperatura - YouTube](https://www.youtube.com/watch?v=Jwi2ObUkRyo)
+
 ## FASE 5: Prueba del sensor de luminosidad
+Aquí no se necesito ningún lunk ni video, ir directamente al código de la fase 5.
 
 ## FASE 6: Prueba del relay
-[Relé con Arduino y ESP8266 para crear una lámpara inteligente](https://programarfacil.com/blog/arduino-blog/rele-con-arduino-lampara/)
+Link de Apoyo para probar el relay: [Relé con Arduino y ESP8266 para crear una lámpara inteligente](https://programarfacil.com/blog/arduino-blog/rele-con-arduino-lampara/)
 
 ## FASE 7: Creación servidor local con sensor de luminosidad, relay y Ubidots
-[ESP8266 nodemcu servidor local encendido de foco y lectura de temperatura con IDE Arduino](https://www.youtube.com/watch?v=0xCkHxwYHY0)
+Creación del servidor local en código, junto el sensor de luz, y el relay: [ESP8266 nodemcu servidor local encendido de foco y lectura de temperatura con IDE Arduino](https://www.youtube.com/watch?v=0xCkHxwYHY0)
 
 ## FASE 8: Impresión 3D
 Finalmente, imprimimos un modelo de cómo es que se vería el proyecto. Este es un modelo con la idea y concepto del producto final. La impresión de la lámpara fue a través de: [Shimano Prints](https://www.instagram.com/shimano.prints/).
